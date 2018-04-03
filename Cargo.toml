@@ -1,0 +1,6 @@
+[package]
+name = "rust_chapt2_practice"
+version = "0.1.0"
+authors = ["Jake Utley <j.utley93@gmail.com>"]
+
+[dependencies]
