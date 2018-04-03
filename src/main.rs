@@ -1,3 +1,9 @@
+mod temperatures;
+
 fn main() {
-    println!("Hello, world!");
+
+  println!("Chapter 2 practice!");
+
+  temperatures::test();
+
 }
